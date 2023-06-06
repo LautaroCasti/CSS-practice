@@ -1,0 +1,40 @@
+.back {
+  padding: 12px 12px;
+  margin-right: 8px;
+}
+
+.next {
+  padding: 12px 12px;
+  margin-left: 8px;
+}
+
+.stretch {
+  background-color: green;
+  color: white;
+  padding: 8px 16px;
+  border: none;
+
+  transition: padding 1s;
+}
+
+.stretch:hover {
+  padding: 16px 32px;
+}
+
+.stretch-button {
+  background-color: green;
+  color: white;
+  padding: 8px 15px 8px 15px;
+  border: none;
+  margin: 0px 10px 0px 10px;
+
+  transition: padding 0.20s,
+    margin 0.15s;
+}
+
+.stretch-button:hover {
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-left: 0px;
+  margin-right: 0px;
+}

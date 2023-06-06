@@ -1,0 +1,43 @@
+.exe-1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title {
+  font-weight: bolder;
+  font-size: 20px;
+  margin-bottom: 0;
+}
+
+.description {
+  color: grey;
+  margin-top: 4px;
+}
+
+.info {
+  width: 280px;
+}
+
+.start {
+  background-color: green;
+  padding: 8px 24px;
+  color: white;
+  border: none;
+  border-radius: 4px;
+}
+
+.shop {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  font-weight: 700;
+  font-size: 40px;
+}
+
+.apple {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.learn {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
