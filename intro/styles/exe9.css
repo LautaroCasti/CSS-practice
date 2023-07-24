@@ -1,0 +1,37 @@
+.red-square {
+  background-color: red;
+  width: 300px;
+  height: 300px;
+  display: inline-block;
+}
+
+.green-circle {
+  display: inline-block;
+  background-color: green;
+  width: 300px;
+  height: 300px;
+  border-radius: 150px;
+}
+
+.form {
+  padding: 10px;
+  border: 1px solid black;
+}
+
+.youtube {
+  background-color: grey;
+}
+
+.youtube p {
+  color: white;
+}
+
+.cat-img {
+  width: 257px;
+  height: 300px;
+  box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+}
+
+.cat-img button {
+  align-items: center;
+}
